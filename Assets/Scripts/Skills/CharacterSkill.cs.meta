@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 79a4b0cc0428e6e409486474ccc1e12e
+timeCreated: 1512482613
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - imgSkill: {instanceID: 0}
+  - imgSkillBottom: {instanceID: 0}
+  - pfbSkillSelector: {fileID: 1888393501790832, guid: 4fedc8dfa4a242241acad0ff47c3169f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

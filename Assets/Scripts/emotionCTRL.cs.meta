@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 70055ffba10648e4db97e5101eb3abd2
+timeCreated: 1512398065
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spDead: {fileID: 21300000, guid: 7ff56259eef5b8f4abcfa1af690db1b5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
